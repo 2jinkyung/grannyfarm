@@ -1,7 +1,5 @@
 package com.project.granny.member.domain;
 
-import javax.annotation.Generated;
-
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
