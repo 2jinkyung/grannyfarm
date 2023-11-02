@@ -19,13 +19,7 @@
   </mappers> -->
 
 <typeAliases>
-  <package name="com.gemiso.manager.login"/>
-  <package name="com.gemiso.manager.strg"/>
-  <package name="com.gemiso.manager.taskType"/>
-  <package name="com.gemiso.manager.taskManage"/>
-  <package name="com.gemiso.manager.agent"/>
-  <package name="com.gemiso.manager.task"/>
-  <package name="com.gemiso.manager.usermanage"/>
+  <package name="com.project.granny.domain"/>
 </typeAliases>
 
 </configuration>

@@ -11,17 +11,21 @@ import lombok.Setter;
 @NoArgsConstructor
 public class MemberDto {
 	
+	private Integer no;
+	
 	private String id;
 	
 	private String pwd;
 	
 	private String name;
 	
-	private int age;
+	private Integer age;
 	
-	private int phone;
+	private Integer phone;
 	
 	private boolean isDel;
+	
+	private boolean isSeller;
 	
 	
 }

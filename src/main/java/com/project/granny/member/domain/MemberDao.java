@@ -1,5 +1,8 @@
 package com.project.granny.member.domain;
 
-public class MemberDao {
+import org.springframework.stereotype.Repository;
 
+public interface MemberDao{
+
+	public MemberDto setMember(MemberDto dto);
 }
